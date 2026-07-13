@@ -5,7 +5,7 @@
 <p align="center">
   I build production-ready systems across DeFi protocols, smart contracts, AI agents,
   <br/>
-  blockchain infrastructure, and full-stack applications — turning complex ideas into reliable products.
+  blockchain infrastructure, and full-stack applications - turning complex ideas into reliable products.
 </p>
 
 <p align="center">
@@ -21,16 +21,18 @@
 ---
 
 <h2>
-  <img src="./assets/rocket.svg" width="22" height="22" alt="" />
+  <img src="https://img.icons8.com/color/32/rocket--v1.png" width="24" height="24" align="center" alt="" />
   &nbsp;What I Build
 </h2>
 
 <table>
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" width="30%">
       <br/>
-      &nbsp;&nbsp;<img src="./assets/blockchain.svg" width="18" height="18" alt="" />
-      &nbsp;<b>Blockchain</b>
+      <b>
+        <img src="https://img.icons8.com/color/24/blockchain-technology.png" width="18" height="18" align="center" alt="" />
+        &nbsp;Blockchain
+      </b>
       <ul>
         <li>Smart contracts (Solidity / Rust)</li>
         <li>DeFi protocols</li>
@@ -40,10 +42,13 @@
       </ul>
       <br/>
     </td>
-    <td valign="top" width="33%">
+    <td width="5%"></td>
+    <td valign="top" width="30%">
       <br/>
-      &nbsp;&nbsp;<img src="./assets/ai.svg" width="18" height="18" alt="" />
-      &nbsp;<b>AI</b>
+      <b>
+        <img src="https://img.icons8.com/color/24/artificial-intelligence.png" width="18" height="18" align="center" alt="" />
+        &nbsp;AI
+      </b>
       <ul>
         <li>LLM-powered applications</li>
         <li>AI agents</li>
@@ -52,10 +57,13 @@
       </ul>
       <br/>
     </td>
-    <td valign="top" width="33%">
+    <td width="5%"></td>
+    <td valign="top" width="30%">
       <br/>
-      &nbsp;&nbsp;<img src="./assets/fullstack.svg" width="18" height="18" alt="" />
-      &nbsp;<b>Backend &amp; Full Stack</b>
+      <b>
+        <img src="https://img.icons8.com/color/24/services.png" width="18" height="18" align="center" alt="" />
+        &nbsp;Backend &amp; Full Stack
+      </b>
       <ul>
         <li>Scalable APIs</li>
         <li>Real-time applications</li>
@@ -70,7 +78,7 @@
 ---
 
 <h2>
-  <img src="./assets/toolkit.svg" width="22" height="22" alt="" />
+  <img src="https://img.icons8.com/color/32/toolbox.png" width="24" height="24" align="center" alt="" />
   &nbsp;Tech Stack
 </h2>
 
@@ -111,12 +119,12 @@
 ---
 
 <h2>
-  <img src="./assets/star.svg" width="22" height="22" alt="" />
+  <img src="https://img.icons8.com/color/32/star--v1.png" width="24" height="24" align="center" alt="" />
   &nbsp;Featured Projects
 </h2>
 
 <h3>
-  <img src="./assets/blockchain.svg" width="18" height="18" alt="" />
+  <img src="https://img.icons8.com/color/24/rust-programming-language.png" width="18" height="18" align="center" alt="" />
   &nbsp;<a href="https://github.com/yuto-kazuma/solana-sniper-bot">solana-sniper-bot</a>
 </h3>
 
@@ -133,7 +141,7 @@ Link:
 ---
 
 <h3>
-  <img src="./assets/blockchain.svg" width="18" height="18" alt="" />
+  <img src="https://img.icons8.com/color/24/ethereum.png" width="18" height="18" align="center" alt="" />
   &nbsp;<a href="https://github.com/yuto-kazuma/solidity-defi">solidity-defi</a>
 </h3>
 
@@ -150,7 +158,7 @@ Link:
 ---
 
 <h3>
-  <img src="./assets/blockchain.svg" width="18" height="18" alt="" />
+  <img src="https://img.icons8.com/color/24/bank-cards.png" width="18" height="18" align="center" alt="" />
   &nbsp;<a href="https://github.com/yuto-kazuma/gunthy_erc20_smart_contract">gunthy_erc20_smart_contract</a>
 </h3>
 
@@ -166,7 +174,7 @@ Link:
 ---
 
 <h3>
-  <img src="./assets/ai.svg" width="18" height="18" alt="" />
+  <img src="https://img.icons8.com/color/24/artificial-intelligence.png" width="18" height="18" align="center" alt="" />
   &nbsp;<a href="https://github.com/yuto-kazuma/bittensor-subnet-example">bittensor-subnet-example</a>
 </h3>
 
@@ -182,7 +190,7 @@ Link:
 ---
 
 <h2>
-  <img src="./assets/pin.svg" width="22" height="22" alt="" />
+  <img src="https://img.icons8.com/color/32/pin3.png" width="24" height="24" align="center" alt="" />
   &nbsp;Engineering Interests
 </h2>
 
@@ -199,19 +207,28 @@ Currently exploring:
 ---
 
 <h2>
-  <img src="./assets/chart.svg" width="22" height="22" alt="" />
+  <img src="https://img.icons8.com/color/32/combo-chart--v1.png" width="24" height="24" align="center" alt="" />
   &nbsp;GitHub Stats
 </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuto-kazuma&amp;show_icons=true&amp;hide_border=true&amp;theme=tokyonight&amp;cache_seconds=86400" alt="Yuto's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuto-kazuma&amp;layout=compact&amp;hide_border=true&amp;theme=tokyonight&amp;cache_seconds=86400" alt="Top languages" />
+  <img src="https://img.shields.io/github/followers/yuto-kazuma?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0e75b6&labelColor=181717" alt="Followers" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyuto-kazuma&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=0e75b6&labelColor=181717" alt="Public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
 </p>
 
 ---
 
 <h2>
-  <img src="./assets/contact.svg" width="22" height="22" alt="" />
+  <img src="https://img.icons8.com/color/32/new-post.png" width="24" height="24" align="center" alt="" />
   &nbsp;Contact
 </h2>
 

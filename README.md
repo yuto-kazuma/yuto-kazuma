@@ -25,9 +25,10 @@
   &nbsp;What I Build
 </h2>
 
+<div align="center">
 <table>
   <tr>
-    <td valign="top" width="30%">
+    <td valign="top" width="250">
       <br/>
       <b>
         <img src="https://img.icons8.com/color/24/blockchain-technology.png" width="18" height="18" align="center" alt="" />
@@ -42,8 +43,8 @@
       </ul>
       <br/>
     </td>
-    <td width="5%"></td>
-    <td valign="top" width="30%">
+    <td width="40"></td>
+    <td valign="top" width="250">
       <br/>
       <b>
         <img src="https://img.icons8.com/color/24/artificial-intelligence.png" width="18" height="18" align="center" alt="" />
@@ -57,8 +58,8 @@
       </ul>
       <br/>
     </td>
-    <td width="5%"></td>
-    <td valign="top" width="30%">
+    <td width="40"></td>
+    <td valign="top" width="250">
       <br/>
       <b>
         <img src="https://img.icons8.com/color/24/services.png" width="18" height="18" align="center" alt="" />
@@ -74,6 +75,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -213,7 +215,7 @@ Currently exploring:
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/yuto-kazuma?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0e75b6&labelColor=181717" alt="Followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyuto-kazuma&query=%24.public_repos&label=Public%20Repos&style=for-the-badge&logo=github&logoColor=white&color=0e75b6&labelColor=181717" alt="Public repositories" />
+  <img src="https://img.shields.io/badge/Based%20in-Tokyo,%20Japan-0e75b6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=181717" alt="Location" />
 </p>
 
 <p align="center">

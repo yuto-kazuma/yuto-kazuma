@@ -3,7 +3,7 @@
 <p align="center">
   <b>I build production-grade AI agents, DeFi protocols, and blockchain infrastructure</b>
   <br/>
-  for high-performance Web3 and AI products — from architecture to deployment.
+  for high-performance Web3 and AI products - from architecture to deployment.
 </p>
 
 <p align="center">
@@ -31,21 +31,21 @@
 <table>
   <tr>
     <td><img src="https://img.icons8.com/color/24/checkmark--v1.png" width="16" height="16" align="center" alt="" /></td>
-    <td><b>AI agents &amp; LLM tooling</b> — automation workflows and AI-assisted internal tools</td>
+    <td><b>AI agents &amp; LLM tooling</b> - automation workflows and AI-assisted internal tools</td>
     <td><img src="https://img.icons8.com/color/24/checkmark--v1.png" width="16" height="16" align="center" alt="" /></td>
-    <td><b>DeFi protocol design</b> — lending, liquidity, and on-chain financial primitives</td>
+    <td><b>DeFi protocol design</b> - lending, liquidity, and on-chain financial primitives</td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/24/checkmark--v1.png" width="16" height="16" align="center" alt="" /></td>
-    <td><b>Smart contract development</b> — Solidity &amp; Rust, from spec to audit-ready</td>
+    <td><b>Smart contract development</b> - Solidity &amp; Rust, from spec to audit-ready</td>
     <td><img src="https://img.icons8.com/color/24/checkmark--v1.png" width="16" height="16" align="center" alt="" /></td>
-    <td><b>Blockchain infrastructure</b> — nodes, indexing, and low-latency trading systems</td>
+    <td><b>Blockchain infrastructure</b> - nodes, indexing, and low-latency trading systems</td>
   </tr>
   <tr>
     <td><img src="https://img.icons8.com/color/24/checkmark--v1.png" width="16" height="16" align="center" alt="" /></td>
-    <td><b>Full-stack products</b> — Next.js apps, APIs, and real-time backends</td>
+    <td><b>Full-stack products</b> - Next.js apps, APIs, and real-time backends</td>
     <td><img src="https://img.icons8.com/color/24/checkmark--v1.png" width="16" height="16" align="center" alt="" /></td>
-    <td><b>Security-focused engineering</b> — systems built to survive adversarial conditions</td>
+    <td><b>Security-focused engineering</b> - systems built to survive adversarial conditions</td>
   </tr>
 </table>
 
@@ -112,7 +112,7 @@
   &nbsp;<img src="https://img.shields.io/github/stars/yuto-kazuma/solana-sniper-bot?style=flat-square&color=0e75b6&labelColor=181717" alt="Stars" />
 </h3>
 
-<b>Problem</b> — Sniping and copy-trading on Solana requires reacting to on-chain events in sub-second windows across many DEXs.
+<b>Problem</b> - Sniping and copy-trading on Solana requires reacting to on-chain events in sub-second windows across many DEXs.
 
 <b>Highlights</b>
 <ul>
@@ -130,10 +130,10 @@
 
 <h3>
   <img src="https://img.icons8.com/color/24/ethereum.png" width="18" height="18" align="center" alt="" />
-  &nbsp;<a href="https://github.com/yuto-kazuma/solidity-defi">Solidity DeFi — Lending Protocol</a>
+  &nbsp;<a href="https://github.com/yuto-kazuma/solidity-defi">Solidity DeFi - Lending Protocol</a>
 </h3>
 
-<b>Problem</b> — Lending protocols are hard to reason about; I wanted a transparent, minimal lending/borrow design.
+<b>Problem</b> - Lending protocols are hard to reason about; I wanted a transparent, minimal lending/borrow design.
 
 <b>Highlights</b>
 <ul>
@@ -150,10 +150,10 @@
 
 <h3>
   <img src="https://img.icons8.com/color/24/artificial-intelligence.png" width="18" height="18" align="center" alt="" />
-  &nbsp;<a href="https://github.com/yuto-kazuma/genzify-app">Genzify AI — LLM-Powered Web App</a>
+  &nbsp;<a href="https://github.com/yuto-kazuma/genzify-app">Genzify AI - LLM-Powered Web App</a>
 </h3>
 
-<b>Problem</b> — Turn everyday text into trendy Gen Z-style language with a fun, instant UX.
+<b>Problem</b> - Turn everyday text into trendy Gen Z-style language with a fun, instant UX.
 
 <b>Highlights</b>
 <ul>
@@ -170,10 +170,10 @@
 
 <h3>
   <img src="https://img.icons8.com/color/24/bot.png" width="18" height="18" align="center" alt="" />
-  &nbsp;<a href="https://github.com/yuto-kazuma/plai">Plaiful — AI Agent Directory (SaaS)</a>
+  &nbsp;<a href="https://github.com/yuto-kazuma/plai">Plaiful - AI Agent Directory (SaaS)</a>
 </h3>
 
-<b>Problem</b> — A client needed a platform to discover and compare AI agents for the banking / credit-union sector.
+<b>Problem</b> - A client needed a platform to discover and compare AI agents for the banking / credit-union sector.
 
 <b>Highlights</b>
 <ul>
@@ -190,11 +190,11 @@
 
 <h3>
   <img src="https://img.icons8.com/color/24/docker.png" width="18" height="18" align="center" alt="" />
-  &nbsp;<a href="https://github.com/yuto-kazuma/dapp-node">DApp Node — Infrastructure Tooling</a>
+  &nbsp;<a href="https://github.com/yuto-kazuma/dapp-node">DApp Node - Infrastructure Tooling</a>
   &nbsp;<img src="https://img.shields.io/github/stars/yuto-kazuma/dapp-node?style=flat-square&color=0e75b6&labelColor=181717" alt="Stars" />
 </h3>
 
-<b>Problem</b> — Running blockchain nodes reliably in production needs solid deployment and operational workflows.
+<b>Problem</b> - Running blockchain nodes reliably in production needs solid deployment and operational workflows.
 
 <b>Highlights</b>
 <ul>
@@ -209,10 +209,10 @@
 
 <h3>
   <img src="https://img.icons8.com/color/24/network.png" width="18" height="18" align="center" alt="" />
-  &nbsp;<a href="https://github.com/yuto-kazuma/bittensor-subnet-example">Bittensor Subnet — AI × Blockchain</a>
+  &nbsp;<a href="https://github.com/yuto-kazuma/bittensor-subnet-example">Bittensor Subnet - AI × Blockchain</a>
 </h3>
 
-<b>Problem</b> — Coordinate AI workloads through on-chain incentives instead of a central operator.
+<b>Problem</b> - Coordinate AI workloads through on-chain incentives instead of a central operator.
 
 <b>Highlights</b>
 <ul>
